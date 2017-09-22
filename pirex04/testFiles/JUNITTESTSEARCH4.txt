@@ -1,0 +1,9 @@
+﻿*** START OF THIS PROJECT GUTENBERG EBOOK 
+
+JUNIT simple test
+_______
+
+JUNIT simple second test. the
+
+*** END OF THIS PROJECT GUTENBERG EBOOK
+
